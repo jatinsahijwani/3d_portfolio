@@ -190,7 +190,7 @@ import {
     {
       testimonial:
         "Testimonial",
-      name: "Coming Soon",
+      name: "coming soon",
       designation: "ABCD",
       company: "EFGH",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
@@ -198,7 +198,7 @@ import {
     {
       testimonial:
         "Testimonial",
-      name: "Coming Soon!",
+      name: "Coming soon!",
       designation: "COO",
       company: "DEF Corp",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
@@ -206,7 +206,7 @@ import {
     {
       testimonial:
         "Testimonial",
-      name: "Coming Soon!",
+      name: "coming Soon!",
       designation: "CTO",
       company: "456 Enterprises",
       image: "https://randomuser.me/api/portraits/women/6.jpg",
@@ -217,18 +217,18 @@ import {
     {
       name: "PROJECT",
       description:
-        "Coming Soon!",
+        "coming soon!",
       tags: [
         {
-          name: "tags",
+          name: "tag1",
           color: "blue-text-gradient",
         },
         {
-          name: "tags",
+          name: "tag2",
           color: "green-text-gradient",
         },
         {
-          name: "tags",
+          name: "tag3",
           color: "pink-text-gradient",
         },
       ],
@@ -238,18 +238,18 @@ import {
     {
       name: "PROJECT",
       description:
-        "Coming Soon!",
+        "Coming soon!",
       tags: [
         {
-          name: "tags",
+          name: "tag1",
           color: "blue-text-gradient",
         },
         {
-          name: "tags",
+          name: "tag2",
           color: "green-text-gradient",
         },
         {
-          name: "tags",
+          name: "tag3",
           color: "pink-text-gradient",
         },
       ],
@@ -259,18 +259,18 @@ import {
     {
       name: "PROJECT",
       description:
-        "Coming Soon!",
+        "coming Soon!",
       tags: [
         {
-          name: "tags",
+          name: "tag1",
           color: "blue-text-gradient",
         },
         {
-          name: "tags",
+          name: "tag2",
           color: "green-text-gradient",
         },
         {
-          name: "tags",
+          name: "tag3",
           color: "pink-text-gradient",
         },
       ],
