@@ -215,25 +215,29 @@ import {
   
   const projects = [
     {
-      name: "PROJECT",
+      name: "Todo Application",
       description:
-        "coming soon!",
+        "This is a basic Todo application, which uses MERN Stack and is for demonstration purposes only.",
       tags: [
         {
-          name: "tag1",
+          name: "mongodb",
           color: "blue-text-gradient",
         },
         {
-          name: "tag2",
+          name: "react",
           color: "green-text-gradient",
         },
         {
-          name: "tag3",
+          name: "express",
           color: "pink-text-gradient",
         },
+        {
+          name: "nodejs",
+          color: "blue-text-gradient",
+        },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image:" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsUcB0ir_EMH7yMdqCDWtvC-mFY0FO8CEC5A&usqp=CAU",
+      source_code_link: "https://github.com/jatinsahijwani/todo/",
     },
     {
       name: "PROJECT",
